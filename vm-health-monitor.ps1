@@ -22,5 +22,6 @@ Write-Host "=== VMs Needing Attention ==="
 foreach ($vm in $vms) {
     if ($vm.PowerState -ne "VM running") {
         Write-Host "$($vm.Name) needs attention."
+
     }
 }
