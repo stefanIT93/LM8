@@ -1,0 +1,9 @@
+ AI Usage
+ Prompt Used:
+Review my PowerShell Azure VM health monitoring script and suggest one improvement.
+ AI Response Summary:
+AI suggested improving the script by adding better error handling and clearer output so administrators can more easily identify VMs that need attention.
+What I Verified:
+I reviewed the AI suggestions and checked that they matched the requirements of my capstone project. I also verified that the PowerShell commands and logic were appropriate for the script.
+How It Helped:
+AI helped me understand the PowerShell logic, troubleshoot problems, organize the script, and identify ways the VM health monitoring script could be improved.
