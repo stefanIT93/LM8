@@ -6,3 +6,6 @@ foreach($vm in $vms) {
   Write-Host $vm.Name }
  ($vm.PowerState -eq "VM running") {
     Write-Host "$($vm.Name) is healthy."
+foreach ($vm in $vms) {
+    if ($vm.PowerState -ne "VM running") {
+        Write-Host "$($vm.Name) needs attention."
