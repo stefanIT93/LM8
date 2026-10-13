@@ -1,0 +1,5 @@
+# Project Notes
+- PowerShell script: vm-health-monitor.ps1
+- Purpose: Monitor the health and status of an Azure virtual machine.
+- The script will collect VM health information and generate a report.
+- Additional notes and testing results will be documented here as the project progresses.
